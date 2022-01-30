@@ -1,0 +1,12 @@
+postgres://
+jpraommbyuictn
+:
+7155fa8a71dc64abfe2e355549593a906d66197b4182805a877a25390c68b3a4
+@
+ec2-184-73-243-101.compute-1.amazonaws.com
+
+:
+
+5432
+/
+dca32bang1k0gh
