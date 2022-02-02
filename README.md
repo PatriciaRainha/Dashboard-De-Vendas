@@ -2,7 +2,6 @@
 ## 🏁Conteúdos: 
   * 👉[Descrição](#Descrição)
   * 👉[Instalação](#Instalação)
-  * 👉[Autores](#Autores)
   * 👉[Linguagens](#Linguagens)
 
 ## Descrição: 
@@ -17,8 +16,7 @@
   * :electron: <a href="https://winscp.net/eng/download.php">NPM</a>
   * :electron: <a href="https://code.visualstudio.com/download">VS Code</a>
   * :electron: <a href="https://git-scm.com/downloads">Git</a>
-## Autores
-* <a href="https://github.com/PatriciaRainha">Patricia Rainha</a>
+  * 
 ### Linguagens:
 * ### HTML
 * ### TypeScript
