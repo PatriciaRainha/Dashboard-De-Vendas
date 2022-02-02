@@ -24,5 +24,6 @@
 * ### TypeScript
 * ### Java
 * ### CSS
+##Status
 ## ⚠️Status do projeto:⚠️
 ### ✔️ Concluído ✔️
