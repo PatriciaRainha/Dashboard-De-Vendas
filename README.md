@@ -4,7 +4,7 @@
   * 👉[Instalação](#Instalação)
   * 👉[Autores](#Autores)
   * 👉[Linguagens](#Linguagens)
-  * 👉[Status](#Status)
+
 ## Descrição: 
 ### O projeto foi elaborado na semana Spring React 
 ## Instalação: 
@@ -24,6 +24,5 @@
 * ### TypeScript
 * ### Java
 * ### CSS
-## Status
 ## ⚠️Status do projeto:⚠️
 ### ✔️ Concluído ✔️
