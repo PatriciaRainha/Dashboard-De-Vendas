@@ -8,7 +8,7 @@
 ## Descrição: 
 ### O projeto foi elaborado na semana Spring React 
 ## Instalação: 
-### Caso você queira acompanhar o tutorial, você precisará das seguintes ferramentas:
+### Ferramentas Utilizadas:
   * :electron: <a href="https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html">JDK 11</a>
   * :electron: <a href="https://spring.io/tools">STS</a>
   * :electron: <a href="https://www.postman.com/downloads/">Postman</a>
